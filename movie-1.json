@@ -3,21 +3,21 @@
     "movie":"MOVIE 1"
     "space":""
     "name": "Dark knight",
-    "species" : "Christopher nolan"
+    "director" : "Christopher nolan"
     
     },
   {
   "movie":"MOVIE 2"
     "space":""
     "name": "Big Short",
-    "species" : "Adam McKay"
+    "director" : "Adam McKay"
    
     },
   {
     "movie":"MOVIE 3"
     "space":""
     "name": "Parasite",
-    "species" : "Bong Joon-ho"
+    "director" : "Bong Joon-ho"
    
     }
   
