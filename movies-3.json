@@ -1,0 +1,21 @@
+[
+  {
+    "movie":"TV SHOW",
+    "name": "Name :Money Heist",
+    "director" : "Genre : Crime drama; Comedy-drama"
+    
+    },
+  {
+  "movie":"MOVIE 2",
+    "name": " Name :Suits",
+    "director" : "Genre: Legal drama"
+   
+    },
+  {
+    "movie":"MOVIE 3",
+    "name": "Name":"Friends",
+    "director" : "Genre: Comedy "
+   
+    }
+  
+]
