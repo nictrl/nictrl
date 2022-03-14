@@ -1,21 +1,18 @@
 [
   {
     "movie":"MOVIE 1"
-    "space":""
     "name": "Dark knight",
     "director" : "Christopher nolan"
     
     },
   {
   "movie":"MOVIE 2"
-    "space":""
     "name": "Big Short",
     "director" : "Adam McKay"
    
     },
   {
     "movie":"MOVIE 3"
-    "space":""
     "name": "Parasite",
     "director" : "Bong Joon-ho"
    
